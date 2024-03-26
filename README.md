@@ -28,7 +28,7 @@ A engenharia de requisitos é uma disciplina no desenvolvimento de software que 
 * Rastreamento de requisitos
 
 ## (![image](https://github.com/nicouswth/aulaMarkdown/assets/164562570/5d61a513-5fa2-4e47-9faa-5ad8411c6991)
-## (https://github.com/nicouswth/aulaMarkdown/assets/164562570/a1127dc9-b5a9-4ed2-9a87-cfbb5b530a21)
+## (![image](https://github.com/nicouswth/aulaMarkdown/assets/164562570/a1127dc9-b5a9-4ed2-9a87-cfbb5b530a21)
 
 #3 Tipos de requisitos
 
